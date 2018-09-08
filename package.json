@@ -1,0 +1,38 @@
+{
+  "name": "linked-list-lru",
+  "version": "1.0.0",
+  "description": "linked list lru, lru cache, js lru cache, simple lru cache",
+  "main": "index.js",
+  "scripts": {
+    "test": "cross-env NODE_PATH=. mocha ./test/test-init.js  ./test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuanh18051993/LinkedListLRU.git"
+  },
+  "keywords": [
+    "linked",
+    "list",
+    "lru",
+    "lru",
+    "cache",
+    "js",
+    "lru",
+    "cache",
+    "simple",
+    "lru",
+    "cache"
+  ],
+  "author": "hoangtuanh.180593@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tuanh18051993/LinkedListLRU/issues"
+  },
+  "homepage": "https://github.com/tuanh18051993/LinkedListLRU#readme",
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-register": "^6.26.0",
+    "cross-env": "^5.2.0",
+    "mocha": "^5.2.0"
+  }
+}
