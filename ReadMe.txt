@@ -1,4 +1,4 @@
-Simple LRU Cache For ES6
+Simple LRU Cache
 
 let {LinkedListLRU} = require('linked-list-lru');
 
